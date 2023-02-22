@@ -1,1 +1,3 @@
-print('Hi man or woman')
+print('Say your name')
+name = input()
+print('Hi ' + name)
