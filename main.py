@@ -1,1 +1,1 @@
-print('Hi man')
+print('Hi man or woman')
